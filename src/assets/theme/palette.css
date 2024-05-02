@@ -1,0 +1,13 @@
+:root {
+  --primary-white: #ffffff;
+  --primary-black: #101828;
+  --primary-gray: #f2f4f7;
+
+  --secondary-red: #e44848;
+  --secondary-gray-text: #475467;
+  --secondary-yellow: #ffc531;
+
+  --transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+  --border: 1px solid rgba(16, 24, 40, 0.2);
+  --backdrop: rgba(17, 18, 19, 0.4);
+}
